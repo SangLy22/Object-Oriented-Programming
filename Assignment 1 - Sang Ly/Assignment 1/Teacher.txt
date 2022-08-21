@@ -1,0 +1,7 @@
+Mr Anderson,Math,300
+Mrs Jones,English,303
+Mr Rick,Physical Education,122
+Ms Baker, Biology,242
+Mrs Jane, Art, 100
+Ms luc, History, 200
+Mr Joe, American Literature, 341
